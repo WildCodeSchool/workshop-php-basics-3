@@ -29,7 +29,7 @@ Toujours à partir de ta fonction `sayHello()`
 2.  Modifie la fonction pour qu'elle retourne _"Hello \[NAME\]"_
 3.  Rend le paramètre `name` **optionnel**. Si rien n'est précisé, ta fonction devra retourner "Hello Bulbi"
 
-## Conclusion
+## Chifumi
 
 [Comment créer une fonction ?](function_cheatsheet.html)
 
@@ -53,6 +53,8 @@ Petit rappel :
     Indice 2 : La fonction [in\_array](https://www.php.net/manual/fr/function.in-array.php) te sera sûrement utile.  
       
     
-9.  BONUS : Nous répétons du code lorsque nous voulons récupérer le type de chaque pokemon. La création d'une fonction à réutiliser serait peut être une bonne idée.
+## Bonus
+
+Nous répétons du code lorsque nous voulons récupérer le type de chaque pokemon. La création d'une fonction à réutiliser serait peut être une bonne idée.
 
 ![no understanding](fight.jpeg)
